@@ -1,7 +1,7 @@
 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/spy-cat-agency.git
-cd spy-cat-agency
+git clone https://github.com/YurichS/SpyCats.git
+cd SpyCats
 ```
 2. Create and Activate a Virtual Environment
 ```bash
